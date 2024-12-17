@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Trece" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#RTVE
+#EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Generalistas",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Generalistas",La 2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Generalistas",24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/491px-Clan_TVE_logo.svg.png" group-title="Generalistas",Clan
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
+#MADRID
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+
+#PERIODICOS
+#EXTINF:-1 tvg-id="El Confidencial TV" tvg-logo="https://i.imgur.com/W2Qqz2F.png" group-title="News",El Confidencial TV
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-id="El Pais TV" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News",El Pais TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-id="El Toro TV" tvg-logo="https://i.imgur.com/z8M0Dpy.png" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="El Toro TV 2" tvg-logo="https://i.imgur.com/z8M0Dpy.png" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
+#DISNEY
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://yt3.googleusercontent.com/u9S0l7vCtlJ_y6Iii4AzfsKBeWiNwfGocWnNTDTq9RMrYl01KhWRFWixnS_mNkSh_1sQ1MJV=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",Disney Channel
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
