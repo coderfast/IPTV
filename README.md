@@ -6,3 +6,5 @@ URL corta - https://shorturl.at/Y7Isn
 
 Rakuten TV para Kodi
 URL corta - https://bit.ly/3XlpLii
+Guia Programación EPG
+URL corta - https://bit.ly/3XkLRRQ
