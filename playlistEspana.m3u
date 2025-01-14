@@ -40,9 +40,8 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Internacional" tvg-name="Euronews",Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
-#Squirrel
-# #EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://yt3.googleusercontent.com/u9S0l7vCtlJ_y6Iii4AzfsKBeWiNwfGocWnNTDTq9RMrYl01KhWRFWixnS_mNkSh_1sQ1MJV=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",Disney Channel
-#EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://squirreltv.es/img/ico/logo-bom.svg" group-title="Kids",Squirrel TV
+#Squirrel #EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://yt3.googleusercontent.com/u9S0l7vCtlJ_y6Iii4AzfsKBeWiNwfGocWnNTDTq9RMrYl01KhWRFWixnS_mNkSh_1sQ1MJV=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://static.eldiario.es/clip/d58b36fa-551f-4f68-9917-6f2adb78640f_16-9-discover-aspect-ratio_default_0.jpg" group-title="Kids",Squirrel TV
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #RADIOS
