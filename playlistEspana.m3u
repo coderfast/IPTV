@@ -25,10 +25,10 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nick
-http://170.82.37.21:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon HD
+http://188.17.143.39/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nick Jr.
-http://170.82.37.21:8000/play/a00r/index.m3u8
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 
 #MADRID
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
