@@ -31,8 +31,6 @@ http://143.244.60.30/NICKELODEON/index.m3u8?bitrate=2000&indexed=true&resolution
 http://fl5.moveonjoy.com/NICK_JR/index.m3u8?bitrate=2000&indexed=true&resolution=576&ssize=1&vcodec=h264
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. USA East
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8?bitrate=2000&indexed=true&resolution=576&ssize=1&vcodec=h264
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. USA East
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8 
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Kids",Nick Music. USA East
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8?bitrate=2000&indexed=true&resolution=576&ssize=1&vcodec=h264
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nick toons. USA East
@@ -54,7 +52,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
 #Squirrel 
-#EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2025/01/squirrel.jpeg" group-title="Kids",Squirrel TV
+#EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2025/01/squirrel.jpeg" group-title="Generalistas",Squirrel TV
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #RADIOS
