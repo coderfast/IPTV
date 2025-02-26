@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="Trece" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
@@ -21,6 +22,8 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",Boing (432p)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
+#EXTM3U PROGRAM-ID=1,BANDWIDTH=2745864,AVERAGEBANDWIDTH=2745864,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.5"
+
 #NICKELODEON
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
@@ -32,6 +35,9 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8?bitrate=2000&indexed=true&resolutio
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8?bitrate=2000&indexed=true&resolution=576&ssize=1&vcodec=h264
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nick toons. USA East
 http://143.244.60.30/NICKTOONS/index.m3u8?bitrate=2000&indexed=true&resolution=576&ssize=1&vcodec=h264
+
+
+#EXTM3U
 
 #MADRID
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
