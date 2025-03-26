@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="Trece" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
-##EXTINF:0 tvg-id="YouTube 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" group-title="TouTube" tvg-name="YouTube",YouTube
-#https://www.youtube.com/watch?v=1BqtId8C9X4&format=m3u8
-
 #RTVE
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Generalistas",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
