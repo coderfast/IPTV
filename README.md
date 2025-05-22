@@ -20,6 +20,7 @@ URL corta - https://bit.ly/3XlpLii<br />
 Rakuten TV Guia Programación EPG<br />
 URL corta - https://bit.ly/3XkLRRQ<br />
 
+Para PlutoTV activa el AddOn que viene de serie en Kodi<nr />
 
 Otros enlaces de interes:<br />
 https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md<br />
