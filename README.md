@@ -3,7 +3,7 @@ Aquí te dejo los canales que voy encontrando para añadirlos a Kodi en formato 
 
 Url para Kodi para añadir los canales generalista de España, excepto Mediset y A3Media.<br />
 https://raw.githubusercontent.com/coderfast/IPTV/refs/heads/main/playlistEspana.m3u<br />
-<!-- URL corta - https://shorturl.at/Y7Isn<br />(Y,7, I latina i mayúscula/uppercase, s, n)<br /> -->
+<!-- URL corta - https://shorturl.at/Y7Isn<br />(Y,7, I latina i mayúscula/uppercase, s, n) -->
 URL corta - https://rb.gy/cxvnlz<br />
 
 <!--
