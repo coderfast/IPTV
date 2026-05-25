@@ -31,8 +31,8 @@ https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #http://143.244.60.30/NICKTOONS/index.m3u8?bitrate=2000&indexed=true&resolution=576&ssize=1&vcodec=h264
 
 #MADRID
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
+##EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+#https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #PERIODICOS
 #EXTINF:-1 tvg-id="El Confidencial TV" tvg-logo="https://i.imgur.com/W2Qqz2F.png" group-title="News",El Confidencial TV
@@ -45,8 +45,8 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
 #SQUIRREL 
-#EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2025/01/squirrel.jpeg" group-title="Generalistas",Squirrel TV
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+##EXTINF:-1 tvg-id="Squirrel TV" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2025/01/squirrel.jpeg" group-title="Generalistas",Squirrel TV
+#https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #RADIOS
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radios" tvg-name="RNE para todos",RNE para todos
